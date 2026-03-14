@@ -1,5 +1,27 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+# 書童的心跳檢查 - 每天定時做以下事情：
 
-# Add tasks below when you want the agent to check something periodically.
+## 每天早上 (9點)
+- 檢查天氣，預測今天是否適合出門
+- 檢查日曆，今天有什麼重要行程
+
+## 每天下午 (1點)
+- 檢查郵件，有沒有重要未讀信
+
+## 每天晚上 (9點)
+- 回顧今天做了什麼，更新 MEMORY.md
+- 檢查排程任務狀態
+
+## 每週
+- 整理一週回顧到 MEMORY.md
+
+## 觀察事項（主動記錄）
+- 如果發現 Tim 重複犯錯，記錄下來並提醒
+- 如果 Tim 決定過的事情，記錄決策原因
+- 如果 Tim 提到重要的人事物，記錄到 MEMORY.md
+
+## 書童的原則
+- 有意見要說出來，不是盲目服從
+- 保持乾燥的幽默感
+- 必要時敢於承認自己不确定
