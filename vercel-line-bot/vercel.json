@@ -1,0 +1,5 @@
+{
+  "framework": "vercel",
+  "buildCommand": "npm run build",
+  "outputDirectory": "api"
+}
